@@ -1,0 +1,12 @@
+USART.c:3:13:close_USART_ISR	16	static
+USART.c:12:13:close_USART_ISR_Rx	16	static
+USART.c:21:13:USART_SendWith_IT	24	static
+USART.c:45:13:USART_ReceiveWith_IT	24	static
+USART.c:93:6:USART_Init	40	static
+USART.c:161:6:USART_Transmit	32	static
+USART.c:195:6:USART_Receive	32	static
+USART.c:248:6:USART_TransmitData_IT	32	static
+USART.c:263:6:USART_ReceiveData_IT	32	static
+USART.c:278:6:USART_PeriphCmd	16	static
+USART.c:291:20:USART_GetFlagStatus	16	static
+USART.c:296:6:USART_InterruptHandler	24	static
